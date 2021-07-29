@@ -10,7 +10,8 @@ namespace Refatorando2
     {
         static void Main(string[] args)
         {
-            TesteSubstituirArrayPorObjeto();
+            
+            Console.ReadLine();
         }
     }
 

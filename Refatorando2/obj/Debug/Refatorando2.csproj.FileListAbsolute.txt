@@ -1,0 +1,7 @@
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\bin\Debug\Refatorando2.exe.config
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\bin\Debug\Refatorando2.exe
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\bin\Debug\Refatorando2.pdb
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\obj\Debug\Refatorando2.csprojAssemblyReference.cache
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\obj\Debug\Refatorando2.csproj.CoreCompileInputs.cache
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\obj\Debug\Refatorando2.exe
+C:\Users\patricia.faustino\source\repos\Refatorando2\Refatorando2\obj\Debug\Refatorando2.pdb

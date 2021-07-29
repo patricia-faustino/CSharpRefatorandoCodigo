@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SubstituindoArrayPorObjeto.cs" />
+    <Compile Include="SubstituindoDadosPorObjeto.cs" />
     <Compile Include="SubstituirNumeroMagico.cs" />
   </ItemGroup>
   <ItemGroup>
